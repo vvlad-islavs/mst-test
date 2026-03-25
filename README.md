@@ -16,14 +16,14 @@ flutter run
     features/: фичи по экранам
     features/welcome/, features/general/, features/payload/
       дальше presentation/... с screens/, view_models/, widgets/ (где нужно)
+      
+Сгенерированное
+objectbox.g.dart, objectbox-model.json
+app/router/app_router.gr.dar
 
 ## Архитектура
 Сочетание Clean Architecture + MVVM (в presentation)
 UI->ViewModel(ChangeNotifier, bloc, riverpod)->Usecase(опционально - бизнес логика)->repo->source 
-
-Сгенерированное
-objectbox.g.dart, objectbox-model.json
-app/router/app_router.gr.dart
 
 ## Дополнение
 Кейсы, которые стоит и нужно обновить в реальном проекте:
