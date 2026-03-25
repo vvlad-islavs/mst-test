@@ -1,16 +1,14 @@
-# test_task
+# MST тестовое задание 
 
-A new Flutter project.
+## Запуск
 
-## Getting Started
+Установить dart, Flutter и подключить к проекту
+Команды для запуска: 
+flutter pub get
+flutter run 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Дополнение
+Кейсы, которые стоит и нужно обновить в реальном проекте:
+- Обработка покупок и получение тарифов, статусов подписки. Сейчас это локальная заглушка, которая не выполняет реальную цепочку при покупке (обработка статуса и тд).
+- Обработка ошибок. Отдельный глобальный сервис для обработки и сортировки всех возможных ошибок, логирования и оповещения пользователя
+- тема приложения (если нужна кастомная)
