@@ -31,6 +31,7 @@ UI->ViewModel(ChangeNotifier, bloc, riverpod)->Usecase(опционально - 
 - Обработка ошибок. Отдельный глобальный сервис для обработки и сортировки всех возможных ошибок, логирования и оповещения пользователя
 - тема приложения (если нужна кастомная)
 
+<img width="500" height="1080" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-01 at 16 56 46" src="https://github.com/user-attachments/assets/b783c22a-5d4b-440b-826c-2db9f65cd51a" />
 <img width="500" height="1080" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-01 at 16 46 05" src="https://github.com/user-attachments/assets/365da17f-6d18-4599-87a1-5b5515258de8" />
 <img width="500" height="1080" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-01 at 16 46 23" src="https://github.com/user-attachments/assets/2c06b317-76f5-4b0f-88d0-36c6ba26799d" />
 <img width="500" height="1080" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-01 at 16 46 26" src="https://github.com/user-attachments/assets/67f179ed-26b2-41f5-8b69-d40d263883d8" />
