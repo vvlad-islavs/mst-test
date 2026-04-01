@@ -1,4 +1,4 @@
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-01 at 16 46 05" src="https://github.com/user-attachments/assets/0ed88f3e-c554-446c-bb4c-a8f5c8cb6b2e" /># MST тестовое задание 
+# MST тестовое задание 
 
 ## Запуск
 
